@@ -3,4 +3,4 @@ b = int(input("Please enter b value:"))
 
 c = a + b
 
-print(f"{a} + {b} = {c}")
+print(f"{a} plus {b} is equal to {c}")
